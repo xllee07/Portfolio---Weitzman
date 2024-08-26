@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Project 1'
+title: 'Github Basics'
 thumbnail: /assets/img/projects/proj-1/thumbnail.jpg
 ---
 **bold** _italicize_
